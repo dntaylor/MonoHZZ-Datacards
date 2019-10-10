@@ -4,8 +4,9 @@ Datacard making utilities for MonoHZZ analysis.
 Setup
 -----
 Follow instructions for Higgs Combine and Higgs Combine Harvester setup
-https://cms-analysis.github.io/HiggsAnalysis-CombinedLimit/
-https://cms-analysis.github.io/CombineHarvester/
+(https://cms-analysis.github.io/HiggsAnalysis-CombinedLimit/ and
+https://cms-analysis.github.io/CombineHarvester/).
+The following steps were the last validated version:
 ```bash
 export SCRAM_ARCH=slc7_amd64_gcc700
 cmsrel CMSSW_10_2_13
